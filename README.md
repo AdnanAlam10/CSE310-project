@@ -1,2 +1,8 @@
 # CSE310-project
-An web application where users can post and view recipes of other user from the account created. 
+Bueok is a web application that acts as a platform for sharing recipes between users. 
+
+This repository contains the source codes of the final project of CSE310.
+
+## Technologies Used 
+- HTML, CSS and JavaScript for Frontend
+- Firebase for Backend 
